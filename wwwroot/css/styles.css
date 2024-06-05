@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+#searchInput {
+    padding: 8px;
+    width: 200px;
+}
+
+button {
+    padding: 8px 16px;
+    margin-left: 8px;
+}
+
+#productList {
+    margin-top: 20px;
+}
+
+#productList li {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
